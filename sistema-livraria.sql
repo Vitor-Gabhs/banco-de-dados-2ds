@@ -28,6 +28,6 @@ INSERT INTO Compras (ClienteID, NomeLivro) VALUES
 (2, 'O Senhor dos Anéis'),
 (3, 'O Pequeno Príncipe');
 
--- Consulta para verificar os dados
+
 SELECT * FROM Clientes;
 SELECT * FROM Compras;
